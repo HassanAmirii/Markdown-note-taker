@@ -1,5 +1,5 @@
 8/5/2026
-- write user login / register controller
+- ~~write user login / register controller~~
 - write auth middleware
 - write .env content 
 - write user / note model 
