@@ -1,7 +1,8 @@
-8/5/2026
+1)  8/5/2026
 - ~~write user login / register controller~~
-- write auth middleware
-- write .env content 
-- write user / note model 
+- ~~write auth middleware~~
+- ~~write .env content~~
+- ~~write user / note model~~
 
+------------------------------------------------------------
 
