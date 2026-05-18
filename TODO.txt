@@ -6,3 +6,9 @@
 
 ------------------------------------------------------------
 
+2) 12/05/2026
+- setup server connection; up and runnig
+- write env validation
+- ~~set up app for neccessary http connection~~
+
+
